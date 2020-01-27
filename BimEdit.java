@@ -1,6 +1,3 @@
-// anttoni.torvinen@tuni.fi
-// Lausekielinen Ohjelmointi 2: Harjoitustyö
-
 import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.Scanner;
